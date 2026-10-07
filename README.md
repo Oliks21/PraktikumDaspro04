@@ -3,7 +3,7 @@ Nama    :Aulia Insan Pijar Ramadhan
 NIM     :264107060081
 Kelas   :SIB 1A
 
-Hasil Uji Studi Kasus 2 oleh <Nama>
+Hasil Uji Studi Kasus 2 oleh Sultan_29
 | No | Jenis | Dokumen | Juara/Dana | Output | Sesuai? |
 |----|-------|---------|------------|---------|---------|
 | 1 | 2 | 3 | 1 | Tidak Berhak | Ya |
